@@ -1,0 +1,15 @@
+*.ilk
+*.lib
+*.pdb
+*.opendb
+*.idb
+*.exp
+*.log
+*.obj
+*.tlog
+*.lastbuildstate
+*.ipch
+*.VC.db
+*.suo
+*.filters
+.vs/
